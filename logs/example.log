@@ -1,0 +1,5 @@
+{"level":"info","message":{"Age":"22","Name":"rrw","id":133}}
+{"clientVersion":"4.2.1","code":"P2002","level":"error","meta":{"target":"user_Name_key"}}
+{"level":"info","message":{"Age":"10","Name":"x","id":4}}
+{"clientVersion":"4.2.1","code":"P2025","level":"error","meta":{"cause":"Record to delete does not exist."}}
+{"level":"error","message":"Invalid SQL Query !"}
